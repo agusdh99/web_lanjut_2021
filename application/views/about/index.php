@@ -33,7 +33,6 @@
                     <img src="<?= base_url('image/iam.jpg'); ?>" alt="" width="100%">
                 </div>
             </div>
-
         </div>
     </div>
 
